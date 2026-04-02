@@ -20,3 +20,5 @@ if __name__ == '__main__':
     ]
 
     pytest.main(args)
+
+    sys.exit(0)
