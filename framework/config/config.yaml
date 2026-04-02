@@ -1,0 +1,13 @@
+test12:
+  host: "https://test12.ys7.com"
+  account: "13456725218"
+  password: "325a2cc052914ceeb8c19016c091d2ac"
+  db_host: "127.0.0.1"
+  db_port: 3306
+  db_user: "root"
+  db_password: "123456"
+
+prod:
+  host: "https://api.ys7.com"
+  account: "13456725218"
+  password: "325a2cc052914ceeb8c19016c091d2ac"
